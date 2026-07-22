@@ -15,7 +15,7 @@ This side meeting explores emerging scenarios and technologies for distributed i
 | 1 | IDN Architecture and requirements | 10 | Jian SONG | China Mobile |
 | 2 | Carrier network for AI Inference | 10 | Luis Contreras | Telefonica |
 | 3 | AI WAN Key Technologies | 10 | Ka ZHANG | Huawei |
-| 4 | Inter-Datacenter Load Balancing for AI Inference | 10 | Yuan Zhang | BUPT |
+| 4 | Inter-Datacenter Load Balancing for AI Inference | 10 | Yuan LI | BUPT |
 | 5 | Open Discussion & Summary | 15 | All |  |
 
 **Summary**:  
